@@ -1,4 +1,9 @@
 My PBL contribution list
+Idea for project
+================
+
+ * Add an airplane shape
+ * Change the shape of an airplane
 ========================
 
 | Issue                    | Link.   | Pull Request |
